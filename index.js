@@ -5,7 +5,7 @@ var app = express()
 
 //Define request response in root URL (/)
 app.get('/', function (req, res) {
-  res.send('Hello, Musaib!')
+  res.send('Hello, Muaz khan!')
 })
 
 
